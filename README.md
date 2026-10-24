@@ -1,2 +1,2 @@
-# Rubiiee_RashiPotham
+# Riri_RashiPotham
 hackathon project 
